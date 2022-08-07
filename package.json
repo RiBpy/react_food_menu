@@ -1,6 +1,6 @@
 {
   "homepage": "https://RiBpy.github.io/react_food_menu",
-  "name": "reminder",
+  "name": "food_menu",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
